@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "enduring-palace-476610-t5",
+  "private_key_id": "b3b2361603879ca3f85cce9c2e68c31c3d764c20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCq/0MQzUm1b6P7\nA5gV8Q15kxcaj4EqAc+J/oRziseWipd7dbV1/aNdo0I7xgoU68QhUZKHT1iyvA2n\nZuu//rdkWExQ/19ygcCV7m+OzcF5imrMuPcDIDhWPBET9wESHsx78oc5xIB1cDxE\n5cV56ssfoQ+qGGTK8qOrbyrh+SKqTstykhhB2KGSJPz+dV4YsEfLwf2p0P+NMZ5Q\n99z6A4ybUvZR1npCnNr8SpMSe6GkmDKXRYCwUzlF3L/iUv9HTFRMxN2JAieHJoGS\n1VeQdAHcma0QYrxRV8ESYrOw+yDBhe01uhNyVEvD+cgbz18Lbj3p1wD1XCFQuAeS\n9+L4FxEfAgMBAAECggEAH6CF7YIiy3GiMUe5ZfmHRgC8Kbf4KmZaVgoiwmIdR01L\n9lRPo0qt4CBVnEulSrhOtuDpCqjU3X4lwlwpZ4H7to4UU3jgVQQFtFV9AbsxuUKu\nPT5KxaO8d8q1V+18H7ddl+FEPJ2JKu9+3jlnXITeW/PEu2+2mMjnF8rAcjpLvJb3\nj9xAPE+vlpsBKXzfJbRUBZ/zrNfl+6UQ6eo4VgUzVPuXdbHzATCUQ0QasOxUuJ7C\nodFYYuEMHtqTb6sw3cn0DioEqAMHcVZ44CIGemjVyPTggQAvOkAB2y9tYp/oCFHb\nR++LjbLfGXh69eC8J7h40YAND4KxEJONQg9GGo6k0QKBgQDmH2XmTqGYoDhuvViD\nG7hvoWeUrXmQBHa97zwymqfP0C3PfGyaTO4BkVKuQpIQchJFcWLHKj3u8xHDbk+3\ng333/w7oKG7iUurqqgynFp6TpkHgH2ffKUBzPNu6EbShvbq9u87JgF7sfwF2M2hM\nFF3vW2ksKxhsfFRUfJHYIICfrwKBgQC+Oc0v4QhiU79iz8ubGZ4EtRvbvioITROx\nfH/MCCptM2noTaYXxo2WSvQ4TAVIkYTgKGjvT3WADbJCeD6dZPDtCHKk1mA8a89+\n0f+DYxzylUhB51hwh6Qohb4K7bJMHK90E6bPIU9bJNXCZK0bC1M+ia4N6A8LFinm\nJDsv+/4RkQKBgQDQGJSNL43x9vERMyhXZznhuJNyX20OTvsRxsUo/bHCuv6yIlIT\nNn4D7OZXrttnA8CCC4bHk+ttqWDm2Vo9GStQl9VjGy0qfNDyY9QNROchnbb0dXH4\n29TsYJxSJrCxkmDMMolMrkkok7E+sj4ejkxjpsX0qwPrFoMr43n/d2TZAQKBgQCJ\ngx9hTTvSWNgxhiWZqZshrArHf2DDP3TNCUMZK44AAvq8g+VdqpsP2n9RcyMeopN7\nt7qjxL0cJMqIYoRhI2dG8qRtpMtM4mLNOuGLCUsT0fa6LZMxRdzVrlkDbXFGtDXh\no5MiiOHk8WvVaxH4SueSfdTlGKxHR25igC6JMZEpAQKBgQCIi4D4X/nyQk9sPZlI\nZ8L8fkergBBoneZy6TmJRdVzb8CtNbP533zuX5nlv6+dcjJnvTy8RegMt/p/WNMX\naWpKI/oTN50o7xb6xy8YYecLifgNSXyg1gDWp+AsDRzlIAXPBp/MTKML6JRabu63\n/i7wRj3T66A3YhPIiw7fmrRTDg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-svyatokoprbot@enduring-palace-476610-t5.iam.gserviceaccount.com",
+  "client_id": "108218827090551179199",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-svyatokoprbot%40enduring-palace-476610-t5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
